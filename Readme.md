@@ -25,13 +25,13 @@
 ##### Clone the repository
 
 ```bash
-git clone https://github.com/karan0805/Hire-Me.git
+git clone https://github.com/HIMANSHUSHARMA8982/Recruitment-Management-System.git
 ```
 
 ##### Move to the desired folder
 
 ```bash
-cd Hire-ME
+cd Recruitment-Management-System
 ```
 
 ##### Make sure MYSQL is running on your System . Now move to `creds.py` inside modules folder and replace the value of `user_pwd`
@@ -54,11 +54,11 @@ python main.py
 -  Super-User(Admin) Panel For Future Features.
 - many more ...
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/karan0805/Hire-Me/issues) 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/karan0805/Hire-Me) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/HIMANSHUSHARMA8982/Recruitment-Management-System.git/issue) 
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/HIMANSHUSHARMA8982/Recruitment-Management-System.git) 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/karan0805/Hire-Me) 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/karan0805/Hire-Me)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/HIMANSHUSHARMA8982/Recruitment-Management-System.git) 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/HIMANSHUSHARMA8982/Recruitment-Management-System.git)
 
 ### If you encounter any difficulty running it, feel free to contact on my email :smile:
 
